@@ -1,6 +1,6 @@
 # 🐳 SRT Docker image
 
-[![docker status](https://dockeri.co/image/Lotfull/srtx)](https://hub.docker.com/r/Lotfull/srtx)
+[![docker status](https://dockeri.co/image/lotfull/srtx)](https://hub.docker.com/r/lotfull/srtx)
 
 Docker build for [SRT-xtransmit](https://github.com/maxsharabayko/srt-xtransmit) on Alpine. `srt-xtransmit` is a testing utility with support for SRT and UDP network protocols.
 
